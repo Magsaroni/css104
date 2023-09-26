@@ -1,0 +1,23 @@
+body{
+    background-color: maroon;
+    }
+    h1{
+    color: #ffe7e7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    h2{
+    color: #ffe7e7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    h3{
+    color: #ffe7e7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    p{
+    color: #ffe7e7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    a:visited{
+    color: cornsilk;
+    }
+    
